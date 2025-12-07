@@ -36,13 +36,13 @@ This project showcases a functional product filtering system that allows users t
 
 This project uses the [Fake Store API](https://fakestoreapi.com) for product data:
 
-```js
+```javascript
 https://fakestoreapi.com/products
 ```
 
 ## API Response per product ID
 
-```js
+```javascript
 {
       "id": 1,
       "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
